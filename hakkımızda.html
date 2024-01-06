@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ramak Otomotiv | Hakkımızda </title>
+    <link rel="stylesheet" href="./assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="assets/images/Favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/Favicon.png">
+   <link rel="icon" type="image/png" sizes="96x96" href="assets/images/Favicon.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/Favicon.png">
+    <style>
+    body {
+        background-color: #f8f9fa; 
+    }
+    
+    #main {
+        margin: 180px; 
+        padding: 30px; 
+        background-color: #fff; 
+        border-radius: 18px; 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    }
+
+
+.navbar .menu li a {
+    color: #000; 
+    text-decoration: none; 
+}
+
+.navbar .menu li:hover {
+    background-color: #ddd; 
+}
+
+
+
+.navbar .menu li.active a {
+    color: #ff6600;
+}
+
+.navbar .menu li.active:hover {
+    background-color: #ffcc99; 
+}
+
+</style>
+</head>
+<body>
+    <nav class="navbar">
+        <h2 class="title">Ramak Otomotiv</h2>
+        <ul class="menu">
+        <li>
+            <a class="nav-link" href="index.html">Anasayfa</a>
+        </li>
+      
+        <li>
+            <a class="nav-link" href="filtreler.html">Filtreler</a>
+        </li>
+        <li class="active">
+            <a class="nav-link" href="filtreler.html">Hakkımızda</a>
+        </li>
+        </ul>
+        <ul class="menu_icons">
+          <li><i class="bi bi-person"></i></li>
+          <li><i class="bi bi-search"></i></li>
+          <li class="Basket_icon" onclick="toggleModel()"><i class="bi bi-bag-dash"></i></li>
+          <span class="basket_count">2</span>
+        </ul>
+      </nav>
+   
+    <section id="main">
+        <h2>Hakkımızda</h2>
+        <p>
+            Ramak Otomotiv, sektördeki deneyimi ve uzman kadrosuyla araç parçaları konusunda lider bir firma olarak bilinmektedir.
+            Her bir parça, titizlikle seçilmiş ve kalite standartlarımıza uygun olarak siz değerli müşterilere sunulmaktadır.
+        </p>
+        
+        <p>
+            Müşteri memnuniyeti, işimizin temel taşıdır. Bu nedenle, size en iyi hizmeti sunmak için sürekli olarak çalışıyoruz.
+            Geniş ürün yelpazemiz içinde, aracınıza uygun yedek parçaları bulmanızı sağlamak için çaba harcıyoruz.
+        </p>
+        
+        <p>
+            Ramak Otomotiv olarak, sadece parça satışı değil, aynı zamanda müşterilerimize danışmanlık ve teknik destek de sağlıyoruz.
+            İhtiyaçlarınıza uygun çözümler bulmak ve sizlere güvenilir bir hizmet sunmak için buradayız.
+        </p>
+    </section>
+
+    <script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script>
+        function setActiveCategory(clickedElement) {
+            // Tüm kategori linklerinden "active" sınıfını kaldır
+            var menuItems = document.querySelectorAll('.navbar .menu li');
+            menuItems.forEach(function (item) {
+                item.classList.remove('active');
+            });
+
+            // Tıklanan kategoriye "active" sınıfını ekle
+            clickedElement.classList.add('active');
+        }
+    </script>
+      <center>
+        <p><b><i>© 2024 Tüm Hakları Süphan-Aydın Tarafından Saklıdır.</i></b></p>
+      </center>
+</body>
+</html>

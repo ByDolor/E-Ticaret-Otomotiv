@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1,
+    "name": "SMF7000SY",
+    "price": 460,
+    "oldPrice": 650,
+    "description": "Ford Focus 1 Benzinli Yağ Bakim Filtre  1998-2005",
+    "starRate": 5,
+    "reviewCount": 1938,
+    "stock": 1881,
+    "imgSource": "assets/images/Yağ Filtreleri/OilFilter1.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 2,
+    "name": "SMF7003SY",
+    "price": 400,
+    "oldPrice": 580,
+    "description": "Ford Focus Hava Yağ Filtre  2005-2006 Model Arası 1,6 Benzinli",
+    "starRate": 4.7,
+    "reviewCount": 330,
+    "stock": 7,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter2.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 3,
+    "name": "SMF7004SY",
+    "price": 380,
+    "oldPrice": 420,
+    "description": " Ford Focus Hava Yağ Filtre Set 2005-2006 Model Arası 1,6 Benzinli",
+    "reviewCount": 130,
+    "stock": 3,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter3.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 4,
+    "name": "SMF7005SY",
+    "price": 258.90,
+    "oldPrice": null,
+    "description": "Ford Focus 2 Uyumlu 1.6 Benzinli Filtre Bakım 2008-2001",
+    "starRate": 4.2,
+    "reviewCount": 560,
+    "stock": 6,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter4.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 5,
+    "name": "SMF7006SY",
+    "price": 270,
+    "oldPrice": null,
+    "description": "Focus 4 1.5 Ecoblue Yağ Filtresi Ford Orijinal Otomatik Vites 2018-2022",
+    "starRate": 3.7,
+    "reviewCount": 410,
+    "stock": 450,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter5.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 6,
+    "name": "SMF7021SY",
+    "price": 320.50,
+    "oldPrice": 380,
+    "description": "Focus Fiesta Ka Escortmondeo Yağ Filitresi Fomoco 978M 6714 B4A",
+    "starRate": 4.3,
+    "reviewCount": 145,
+    "stock": 321,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter6.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 7,
+    "name": "SMF5000EY",
+    "price": 199,
+    "oldPrice": null,
+    "description": "Focus 1 2.0 Benzinli Yağ Filtresi 1998-2005 Filtron",
+    "starRate": 4.3,
+    "reviewCount": 173,
+    "stock": 73,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter7.jpg",
+    "type": "YağFiltresi"
+  },
+
+  {
+    "id": 8,
+    "name": "SMF5005EY",
+    "price": 220,
+    "oldPrice": null,
+    "description": "1 2.0 Benzinli Yağ Filtresi 1998-2005 Filtron",
+    "starRate": 4.3,
+    "reviewCount": 189,
+    "stock": 89,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter8.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 9,
+    "name": "SMF5051EY",
+    "price": 220,
+    "oldPrice": null,
+    "description": "Focus 2 1.6 Benzinli Yağ Filtresi 2005-2011 Ford Orijinal",
+    "starRate": 4.3,
+    "reviewCount": 78,
+    "stock": 80,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter9.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 10,
+    "name": "SMF6001EM",
+    "price": 226.13,
+    "oldPrice": null,
+    "description": "Yağ Filtresi 2004-2018 Yağ Filtresi Benzinli Marka ( F026407078 ,1)",
+    "starRate": 4.5,
+    "reviewCount": 250,
+    "stock": 14,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter10.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 11,
+    "name": "SMF6009EM",
+    "author": "Yuval Noah Harari ",
+    "price": 240,
+    "oldPrice": null,
+    "description": "FOCUS Benzinli Yağ Filtresi KISA TİP 2002-2017 ORJİNAL",
+    "starRate": 4.2,
+    "reviewCount": 480,
+    "stock": 490,
+    "imgSource": "./assets/images/Yağ Filtreleri/OilFilter11.jpg",
+    "type": "YağFiltresi"
+  },
+  {
+    "id": 12,
+    "name": "SMF1000HF",
+    "price": 133.64,
+    "oldPrice": null,
+    "description": "Ford Otosan Ford  2018-2020 1.5 Tdcı Hava Filtresi Ford Orjinal",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter1.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 13,
+    "name": "SMF1009HF",
+    "price": 108,
+    "oldPrice": null,
+    "description": "Ford Focus Cmax 1.6tdcı 1.8tdcı Hava Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter2.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 14,
+    "name": "SMF1021HF",
+    "price": 133.99,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 98AB9601CB 1998-2005",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter3.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 15,
+    "name": "SMF1030HF",
+    "price": 125,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 98AB9601CB 1998-2005",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter4.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 16,
+    "name": "SMF6016EM",
+    "price": 145,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi JX619601AA 2018-2020",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter5.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 17,
+    "name": "SMF6024EM",
+    "price": 130,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi Otosan 7T169601A1B 1998-2005",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter6.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 18,
+    "name": "SMF6031EM",
+    "price": 180.28,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi Otosan 7T169601A1B 1998-2005",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter7.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 19,
+    "name": "SMF6027EM",
+    "price": 225,
+    "oldPrice": null,
+    "description": "Ford Focus 3 1.6 Tdcı Hava Filtresi 2011-2018",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter8.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 20,
+    "name": "SMF2006HF",
+    "price": 185,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 98AB9601CB 1998-2005",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter9.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 21,
+    "name": "SMF2021HF",
+    "price": 199.99,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 2006 ve Üst Yıllar Arası Uyumlu Oem Kodu: AV61 9601 Af",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter10.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 22,
+    "name": "SMF2036HF",
+    "price": 215,
+    "oldPrice": null,
+    "description": "Ford Focus 2-3 1.6 Tdcı - 1.8 Tedcı 2.0 Tdcı (04) Hava Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter11.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 23,
+    "name": "SMF2148HF",
+    "price": 335,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 2006 ve Üst Yıllar Arası Uyumlu Oem Kodu: AV61 9601 Af",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter12.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 24,
+    "name": "SMF8000PJ",
+    "price": 225,
+    "oldPrice": null,
+    "description": "Ford 98AB 9601 CB Hava Filtresi Ford: Focus-Con 98 98AB9601CB (WM819555)",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter13.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 25,
+    "name": "SMF1004HF",
+    "price": 235,
+    "oldPrice": null,
+    "description": "Golf4-Bora-A3-Leon-Toledo 97-04 | Hava Filtresi 1jo 129 620/C 37 153",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter14.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 26,
+    "name": "SMF1023HF",
+    "price": 154,
+    "oldPrice": null,
+    "description": "Ford Focus Hava Filtresi 2006 ve Üst Yıllar Arası Uyumlu Oem Kodu: AV61 9601 Af",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Hava Filtreleri/AirFilter15.jpg",
+    "type": "HavaFiltresi"
+  }
+  ,
+  {
+    "id": 27,
+    "name": "SMF6018EM",
+    "price": 885,
+    "oldPrice": 950,
+    "description": "Ford Focus 2-3 1.6 Tdcı - 1.8 Tedcı 2.0 Tdcı (04) Hava Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter1.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 28,
+    "name": "SMF6026SM",
+    "price": 750,
+    "oldPrice": null,
+    "description": "Ford Transit V 347 Mazot Filtresi (6C119176AB)",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter2.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 29,
+    "name": "SMF6217EM",
+    "price": 615,
+    "oldPrice": 650,
+    "description": "Ford Yakit Filtresi Ford Bmax Fiesta Vi Focus Iii 1.5 Tdci-1.6 Tdci 08 Volvo C30 S40 S60 Ii V60 1.6 D2",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter3.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 30,
+    "name": "SMF6030SM",
+    "price": 745,
+    "oldPrice": null,
+    "description": "Ford Yakit Filtresi Transit 2.2-2.4-3.2 Tdci 06 Euro4",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter4.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 31,
+    "name": "SMF6804SM",
+    "price": 1225,
+    "oldPrice": null,
+    "description": "Ford Filtre Komple Focus (C346) 2011 - 2015",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter5.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 32,
+    "name": "SMF6195EM",
+    "price": 880,
+    "oldPrice": null,
+    "description": "Ford Yakit Filtresi Ford Bmax Fiesta Vi Focus Iii 1.5 Tdci-1.6 Tdci 08 Volvo C30 S40 S60 Ii V60 1.6 D2",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter6.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 33,
+    "name": "SMF6657SM",
+    "price": 450,
+    "oldPrice": null,
+    "description": "Ford Eleman Komple - Yakit Filtre (Tdci) Transit (2006)",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter7.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 34,
+    "name": "SMF6028SM",
+    "price":978.45,
+    "oldPrice": 1155,
+    "description": "Yakit Filtresi Ford Custom-Transit V363-V363 2.2 Tdci 125HP-155PS 11 17",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Yakıt Filtreleri/FuelFilter8.jpg",
+    "type": "YakıtFiltreleri"
+  }
+  ,
+  {
+    "id": 35,
+    "name": "SMF4059KP",
+    "price": 125,
+    "oldPrice": 165,
+    "description": "Ford Focus 3 1.6 TDCi Dizel Bosch Filtre Bakım Seti 2011-2018 Hava+Yağ+Yakıt+Karbonlu-Polen-Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter1.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 36,
+    "name": "SMF4059KP",
+    "price": 185,
+    "oldPrice": null,
+    "description": "Polen Filtre ( Ford : Focus Cmax 03- Mondeo 07-14 - Kuga 08-12 ) 1315686",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter2.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 37,
+    "name": "SMF4089P",
+    "price": 135,
+    "oldPrice": null,
+    "description": "Ford Klima (Polen) Filtresi Karbonlu 1998-2005 242668037",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter3.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 38,
+    "name": "SMF8002PJ",
+    "price": 189.99,
+    "oldPrice": null,
+    "description": "Ford Eleman Komple - Polen Filtre (Tdci) Transit (2006)",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter4.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 39,
+    "name": "SMF8004PJ",
+    "price": 176.50,
+    "oldPrice": 190,
+    "description": "Polen Filtresi · B-Max 2013-2017 Polen Filtresi Orjinal",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter5.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 40,
+    "name": "SMF8022PJ",
+    "price": 145,
+    "oldPrice": 165,
+    "description": "Ford Polen Filtresi 2011-2022 Arası Uyumlu Oem Kodu: Av6N 19G244 Aa",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter6.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 41,
+    "name": "SMF9012HF",
+    "price": 135,
+    "oldPrice": null,
+    "description": "Ford Fiesta 1.6 Tdci Karbonlu Polen Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter7.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 42,
+    "name": "SMF4090KP",
+    "price": 225.50,
+    "oldPrice": 250,
+    "description": "Ford Focus 3 Polen Filtresi 2011-2018",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter8.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 43,
+    "name": "SMF4255KP",
+    "price": 185,
+    "oldPrice": null,
+    "description": "Ford Focus 1.6 TDCI Bosch Polen Filtresi (2007-2010)",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter9.jpg",
+    "type": "PolenFiltresi"
+  }
+  ,
+  {
+    "id": 44,
+    "name": "SMF8001PJ",
+    "price": 145,
+    "oldPrice": 165,
+    "description": " Ford Ford Focus 1 - 1998 - 2004 Arası , Connect 2002 - 2013 Arası Polen Filtresi",
+    "starRate": 4.4,
+    "reviewCount": 930,
+    "stock": 143,
+    "imgSource": "./assets/images/Polen Filtreleri/PolenFilter10.jpg",
+    "type": "PolenFiltresi"
+  }
+ 
+]
