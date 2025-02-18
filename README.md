@@ -1,5 +1,5 @@
 ---
-🚀 Developed by **Serhat Can** | [GitHub](https://github.com/ByDolor) | [LinkedIn](www.linkedin.com/in/serhat-can)  
+🚀 Developed by **Serhat Can** | [GitHub](https://github.com/ByDolor) | [LinkedIn](https://www.linkedin.com/in/serhat-can-068402275/)  
 © 2025 Serhat-Can. All rights reserved.
 
 
